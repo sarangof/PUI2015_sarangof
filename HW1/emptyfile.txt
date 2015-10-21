@@ -1,0 +1,6 @@
+whatever
+<<<<<<< HEAD
+please do not let this go wrong, this is the com the command line editing side of things
+=======
+Just making some changes from github, the online version of project editing
+>>>>>>> b0a0f45d7647362e1472de1b938a584a6c2394a3
