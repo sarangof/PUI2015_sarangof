@@ -1,0 +1,64 @@
+your reviews were good 10/10
+
+NOTES ON YOUR PLOT
+===================
+
+the choice of a single color colormap is great: it shows gradients intuitively without suggesting anything else. however the color map has a large gradient between the first and se second color (gray to pink) which is misleading as it separates the locations with this color as different, while the range is 0-2: an interval as any other in the carbon emission scale.
+
+the upper range is not bound. it should be shown somwehre for reference what the true range is
+
+the granularity is not explained. ane xplaination for it does not necessarily belong in the plot but if this were included in a document it should certainly be explained why some regions are very finely sampled and others are note 
+
+alaska and hawaii are nicely included and separated appropriately but he gray lines (though the polygon around hawaii has a lot of sides that are not necessary separating empty space between HW and AK giving the odd impression that HW is surrounded
+
+"Figure" is not needed in the figure title/caption
+
+
+
+
+
+NOTES ON THE PLOTS YOU REVIEWED
+===========================================
+
+daraperl
+============
+
+while esthetically appealing, plotting such large datasets with points is confusing and does not allow easy comparison and assessment of the value of the data. 
+(e.g. what does the largest duration for female riders correspond to? somewhere around 1978 but it is hard to be more precise)
+
+the datapoints hide a pattern in the data: the age increases more significantly for women, peaking around 1980, but it is hard to tell.
+
+the purple foreground datapoints hide the background yellow datapoints -> confusion and ambiguity. 
+
+tick labels are too small
+
+the y axis in seconds offers unnecessary grabularity: minutes would be better and more readable. even hours.
+
+
+
+
+fmzingler
+============
+
+
+the time series are of very different order of magnitude. thus all of them are unvisible and cluster at the bottom . log y should be used.
+
+the axis labels are way too small
+
+there are too many time series on the plot. even with log space the result would likely be confusing. 
+
+the color of the time seres is repeated leading to complete confusion 
+
+
+
+
+
+Ann16253470
+============
+
+
+too m any categories: the difference in size cannot be told apart
+
+x, y labels and ticks and title  too small
+
+circles size and transparency used to convey the same information: this just makes things confusing.
